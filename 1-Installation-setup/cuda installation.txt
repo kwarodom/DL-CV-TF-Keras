@@ -1,0 +1,11 @@
+Visual Studio 2015
+https://www.visualstudio.com/vs/older-downloads/
+
+Cuda Toolkit 9.0
+https://developer.nvidia.com/cuda-90-download-archive
+
+Update Nvidia drivers
+http://www.nvidia.com/Download/index.aspx
+
+cuDNN7.0
+https://developer.nvidia.com/cudnn

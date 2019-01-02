@@ -1,0 +1,12 @@
+Download opencv
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv
+
+installation:
+pip install opencv_python-3.4.1+contrib-cp36-cp36m-win_amd64.whl
+
+
+You can also try:
+
+https://opencv.org/opencv-3-4-1.html
+
+
